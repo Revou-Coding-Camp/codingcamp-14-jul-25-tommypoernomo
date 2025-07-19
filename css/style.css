@@ -1,0 +1,6 @@
+.banner-img{
+    height: 500px;
+    background-image: url(https://picsum.photos/1000);
+    background-size: cover;
+    background-position: center;
+}
